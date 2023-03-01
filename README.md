@@ -2,7 +2,7 @@
 
 Repositório criado para o projeto nº 3 do curso de Lógica Imperativa do Portal Tech
 
-Desenvolvido algorítmo com as seguintes instruções:
+Desenvolvido algorítmo com as seguintes descrições:
 
 1. o identificador das variáveis;
 2. a declaração das variáveis com seus respectivos identificadores e tipos de dado;
